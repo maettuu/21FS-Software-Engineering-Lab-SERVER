@@ -1,5 +1,5 @@
 # 21FS Software Engineering Lab SERVER (SoPra)
-This repository includes the backend part of the semester project of the course SoPra ([source repository](https://github.com/sopra-fs21-group-22/server)). The code is written in `Java 15`. This is only the *SERVER*! To view the *CLIENT* switch to [this repository](https://github.com/maettuu/21FS-Software-Engineering-Lab-CLIENT).
+This repository includes the backend part of the semester project of the course SoPra ([source repository](https://github.com/sopra-fs21-group-22/server)). The code is written in `Java 15`. This is only the *SERVER*, to view the *CLIENT* switch to [this repository](https://github.com/maettuu/21FS-Software-Engineering-Lab-CLIENT).
 
 Main packages: `springframework`, `jsonwebtoken`, `JUnit`, `mockito`, `slf4j.Logger`, `javax.persistence`, `util`, `sql`
 
