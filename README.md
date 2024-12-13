@@ -3,9 +3,9 @@ This repository includes the backend part of the semester project of the course 
 
 Main packages: `springframework`, `jsonwebtoken`, `JUnit`, `mockito`, `slf4j.Logger`, `javax.persistence`, `util`, `sql`
 
-## Introduction
+## Introduction BANG!
 
-The aim of this project is to implement the server-side of a digital version of the popular card game BANG!, to be playable in a browser.
+The aim of this project is to implement the server-side of a digital version of the popular card game **BANG!**, to be playable in a browser.
 
 ## Technologies
 
